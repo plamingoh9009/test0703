@@ -1,0 +1,9 @@
+[submodule "Assets/00.Application/Common"]
+	path = Assets/00.Application/Common
+	url = https://gitlab.com/9tap.repository/unitymodule_common_client.git
+[submodule "UnityPackages"]
+	path = UnityPackages
+	url = https://gitlab.com/9tap.repository/unitymodule_package_client.git
+[submodule "PluginProjects"]
+	path = PluginProjects
+	url = https://gitlab.com/9tap.repository/unitymodule_plugin_client.git
